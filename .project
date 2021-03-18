@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>HTTPserver project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/www/imagine.png</name>
+			<type>1</type>
+			<location>C:/Users/DELL/Pictures/wallpaper/imagine.jpg</location>
+		</link>
+		<link>
+			<name>src/www/img/sunflower.jpg</name>
+			<type>1</type>
+			<location>C:/Users/DELL/Pictures/wallpaper/brigitte-tohm-HhaDWRCaKgg-unsplash.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>

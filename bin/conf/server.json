@@ -1,0 +1,7 @@
+{
+	"DocumentRoot":"D:/Documents/S3/progSys/httpServer/HTTPserver project/bin/www",
+	"DocumentSrc":"D:/Documents/S3/progSys/httpServer/HTTPserver project/src/www",
+	"hostName":"serverNoforonina",
+	"ip":"localhost",
+	"port":"5554"
+}
