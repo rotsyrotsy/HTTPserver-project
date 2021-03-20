@@ -1,3 +1,8 @@
+/*
+    Project S3
+	HTTP SERVER by Rafamantanantsoa Rotsy Vonimanitra & Radamatsihoharana Lova Mihaja
+	IT University Madagascar
+*/
 package socket;
 
 import java.io.File;
@@ -10,7 +15,7 @@ import java.io.InputStream;
 
 public class ReadConf {
 	public JsonObject getConfig() {
-		File jsonInputFile = new File("D:/Documents/S3/progSys/httpServer/HTTPserver project/bin/conf/server.json");
+		File jsonInputFile = new File("-------------------path to json file");
         InputStream is;
         JsonObject empObj = null;
         try {

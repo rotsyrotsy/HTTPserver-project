@@ -1,3 +1,8 @@
+/*
+    Project S3
+	HTTP SERVER by Rafamantanantsoa Rotsy Vonimanitra & Radamatsihoharana Lova Mihaja
+	IT University Madagascar
+*/
 package socket;
 import java.io.IOException;
 
